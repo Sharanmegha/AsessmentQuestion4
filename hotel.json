@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Megha",
+        "city": "Mysore",
+        "type": "Veg",
+        "cuisine": ["Chinese", "Italian"]
+    },
+    {
+        "name": "Veg Paradise",
+        "city": "Mysore",
+        "type": "Veg",
+        "cuisine": ["Indian"]
+    },
+    {
+        "name": "Mylari",
+        "city": "Banglore",
+        "type": "Non-Veg",
+        "cuisine": ["Indian", "Chinese", "Arabian"]
+    },
+    {
+        "name": "Pooja biriyani",
+        "city": "Hyderabad",
+        "type": "Non-Veg",
+        "cuisine": ["Italian", "Arabian"]
+    },
+    {
+        "name": "Kapoor's Cafe",
+        "city": "Banglore",
+        "type": "Non-Veg",
+        "cuisine": ["Arabian", "Chinese"]
+    },
+    {
+        "name": "Saubhagya Veg Restaurant",
+        "city": "Mysore",
+        "type": "Veg",
+        "cuisine": ["Indian"]
+    }
+]

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hotel List</title>
+</head>
+<body>
+    <div>
+        <form action="http://localhost:3000/details">
+            View Hotels <input type="submit">
+        </form>
+    </div>
+    <div>
+        <form action="http://localhost:3000/searchbycity">
+            Search Hotels by City <input type="text" name="scity">
+            <input type="submit">
+        </form>
+    </div>
+    <div>
+        <form action="http://localhost:3000/searchbytype">
+            <select name="stype">
+                <option>--type--</option>
+                <option value="Veg">Vegetarian</option>
+                <option value="Non-Veg">Non-Vegetarian</option>
+            </select>
+            <input type="submit">
+        </form>
+    </div>
+    <div>
+        <form action="http://localhost:3000/searchByCuisine">
+            Search Hotels by Cuisine <input type="text" name="sCuisine">
+            <input type="submit">
+        </form>
+    </div>
+    
+</body>
+</html>
